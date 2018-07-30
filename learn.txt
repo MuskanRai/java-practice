@@ -1,0 +1,38 @@
+1.Hello World , welcome to java world :)
+2.Capitalize first Letter of word.(Input :test , output:Test)
+3.Pick first Even Number.(input: (3,5,2,4,9), output:(2))
+4.Pick a even number and grater than x .(Here x is any number)
+5.Pick a odd number and less than x.
+6.find duplicate word counts in a given string.
+7.Counts word in a sentence .
+8.find a Palindrome number or a string.
+9.Reverse a String.
+10.Generate fibonacci series .(0,1,1,2,3,5,8,13…)
+11.calculate factorial ( 5 ! = 5 × 4 × 3 × 2 × 1 = 120.)
+12.Filter out duplicate elements from the given list.
+13.Comparing two Objects .
+14.Search a particular element in the list or set.
+15.Map a Customer object with key as account No and value as customer object.
+16.Sort Person Object by there age ,by name etc.
+17.List out all the files in the current directory or xyz directory.
+18.Print a IP address of your machine .
+19.Display a date in Different format.?(e.g mm/dd/yyyy,dd-mmm-yyyy)
+20.Display a Datetime in different timezone.
+
+
+
+Do what's possible, now try to build some small apps
+
+1.Create a Timer app (like Tomato Timer).
+2.Create a tic tac toe game .
+3.ToDo list where you can calculate the completed task vs pending tasks.
+4.Create a phone directory and search a number.
+5.Show Currency Symbol based on Country Code or currency Code.
+6.A photo upload app.
+7.A File upload app
+8.Calculator add.
+9.Show the time corresponding to a Country App.
+10.Any Unit Convertor (e.g 1 kg=1000 grams, 1km=1000m)
+There may be different way to write this programs , try to figure out the best way you can write .
+
+Happy Learning !!!.
